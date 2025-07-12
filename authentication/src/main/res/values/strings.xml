@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_connect_github_account">Connect with your Github Account</string>
+    <string name="title_login_error">Login Failed</string>
+    <string name="button_label_okay">OK</string>
+    <string name="label_login_title">Welcome to Hubber</string>
+    <string name="label_login_description">Sign in with your GitHub account to access your repositories, manage projects, and collaborate with your team.</string>
+    <string name="button_text_start_explore">Start Explore</string>
+    <string name="label_or">OR</string>
+</resources>

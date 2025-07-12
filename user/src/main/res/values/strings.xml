@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_welcome_hubby">Welcome from Hubby</string>
+    <string name="button_user_list_retry">Retry</string>
+    <string name="label_following">followings</string>
+    <string name="label_follower">followers</string>
+
+    <string name="label_star">stars</string>
+    <string name="label_fork">forks</string>
+    <string name="label_watch">watches</string>
+
+    <string name="label_loading_more">Loading more users...</string>
+    <string name="label_logout">Logout</string>
+</resources>
